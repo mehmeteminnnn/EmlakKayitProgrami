@@ -1,0 +1,12 @@
+C:\Users\mhmtm\Desktop\emlakkayıt\emlakkayıt\bin\Debug\emlakkayıt.exe.config
+C:\Users\mhmtm\Desktop\emlakkayıt\emlakkayıt\bin\Debug\emlakkayıt.exe
+C:\Users\mhmtm\Desktop\emlakkayıt\emlakkayıt\bin\Debug\emlakkayıt.pdb
+C:\Users\mhmtm\Desktop\emlakkayıt\emlakkayıt\obj\Debug\emlakkayıt.csproj.AssemblyReference.cache
+C:\Users\mhmtm\Desktop\emlakkayıt\emlakkayıt\obj\Debug\emlakkayıt.csproj.SuggestedBindingRedirects.cache
+C:\Users\mhmtm\Desktop\emlakkayıt\emlakkayıt\obj\Debug\emlakkayıt.Form1.resources
+C:\Users\mhmtm\Desktop\emlakkayıt\emlakkayıt\obj\Debug\emlakkayıt.Form2.resources
+C:\Users\mhmtm\Desktop\emlakkayıt\emlakkayıt\obj\Debug\emlakkayıt.Properties.Resources.resources
+C:\Users\mhmtm\Desktop\emlakkayıt\emlakkayıt\obj\Debug\emlakkayıt.csproj.GenerateResource.cache
+C:\Users\mhmtm\Desktop\emlakkayıt\emlakkayıt\obj\Debug\emlakkayıt.csproj.CoreCompileInputs.cache
+C:\Users\mhmtm\Desktop\emlakkayıt\emlakkayıt\obj\Debug\emlakkayıt.exe
+C:\Users\mhmtm\Desktop\emlakkayıt\emlakkayıt\obj\Debug\emlakkayıt.pdb
